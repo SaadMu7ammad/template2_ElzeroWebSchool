@@ -2,5 +2,4 @@
 practical project on Html &amp; CSS
 
 
--mobile view
-![alt text](https://github.com/SaadMu7ammad/template2_ElzeroWebSchool/blob/main/images1.png)
+check it out: https://saadmu7ammad.github.io/template2_ElzeroWebSchool/
