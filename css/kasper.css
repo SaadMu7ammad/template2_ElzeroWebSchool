@@ -160,7 +160,7 @@ header nav .toggle-menu {
 .landing {
     min-height: 100vh;
     background-color: #1f2021;
-    background-image: url("../images/landing.jpg");
+    background-image: url(../images/landing.jpg);
     background-size: cover;
     position: relative;
 }
@@ -424,7 +424,7 @@ header {
 /* design */
 
 .design {
-    background-image: url("../images/design-features.jpg");
+    background-image: url(../images/design-features.jpg);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -749,7 +749,7 @@ header {
 .stats {
     display: flex;
     position: relative;
-    background-image: url("../images/stats.png");
+    background-image: url(../images/stats.png);
     width: 100%;
     height: 500px;
     /* for the parent to center the small icon inside the section */
@@ -963,7 +963,7 @@ header {
 .quote {
     margin-top: 50px;
     margin-bottom: 50px;
-    background-image: url("../images/quote.jpg");
+    background-image: url(../images/quote.jpg);
     background-size: cover;
     height: 200px;
     display: flex;
@@ -1138,7 +1138,7 @@ header {
 /* email */
 .email {
     margin-top: 50px;
-    background-image: url("../images/subscribe.jpg");
+    background-image: url(../images/subscribe.jpg);
     width: 100%;
     height: 200px;
     color: white;
@@ -1336,7 +1336,7 @@ header {
 .footer {
     text-align: center;
     margin-top: 30px;
-    background-image: url("../images/subscribe.jpg");
+    background-image: url(../images/subscribe.jpg);
     height: 200px;
     position: relative;
     color: white;
